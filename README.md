@@ -24,3 +24,6 @@ The [AWS Provider](https://registry.terraform.io/providers/hashicorp/aws/latest/
 - [Google Groups](http://groups.google.com/group/terraform-tool)
 
 _**Please note:** We take Terraform's security and our users' trust very seriously. If you believe you have found a security issue in the Terraform AWS Provider, please responsibly disclose it by contacting us at security@hashicorp.com._
+
+
+Edited by Nuwan.
